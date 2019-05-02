@@ -1,0 +1,15 @@
+section {
+  display: flex;
+  flex: 1;
+  flex-direction: row;
+}
+
+.card-container {
+  flex: 2;
+  padding: 10px;
+}
+
+.chart-container {
+  flex: 7;
+  padding: 10px;
+}
